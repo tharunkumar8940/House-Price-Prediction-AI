@@ -1,0 +1,19 @@
+{
+    "best_model": "Gradient Boosting",
+    "training_records": 1489,
+    "testing_records": 373,
+    "features": [
+        "area_sqft",
+        "bedrooms",
+        "bathrooms",
+        "age_years",
+        "parking_spaces",
+        "floor",
+        "total_floors",
+        "distance_to_city_km",
+        "location"
+    ],
+    "target": "price",
+    "test_size": 0.2,
+    "random_state": 42
+}
